@@ -2,7 +2,8 @@
 
 A collection of projects I've done using tableau.
 
-Project 1: London Airbnb Tableau Dashboard
+
+**Project 1: London Airbnb Tableau Dashboard**
 
 https://github.com/kmac8008/tableau_projects/tree/main/london_airbnb_tableau_project
 
