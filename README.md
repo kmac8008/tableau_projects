@@ -8,4 +8,5 @@ https://github.com/kmac8008/tableau_projects/tree/main/london_airbnb_tableau_pro
 
 ●	Utilized Tableau to visualize London Airbnb data from three different spreadsheets
 
+
 ●	Joined spreadsheets on correlating columns before visualization
