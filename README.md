@@ -2,7 +2,7 @@
 
 A collection of projects I've done using tableau.
 
-**Project 1: London Airbnb Tableau Dashboard**
+**Project 1: HR Analytics Dashboard**
 
 https://github.com/kmac8008/tableau_projects/tree/main/HR_analytics_project
 
