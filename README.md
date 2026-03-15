@@ -6,7 +6,11 @@ A collection of projects I've done using tableau.
 
 https://github.com/kmac8008/tableau_projects/tree/main/HR_analytics_project
 
-●	Utilized **Tableau** to visualize HR employee data and attrition rates
+●	Developed an interactive **Tableau** dashboard to analyze employee attrition, workforce demographics, and departmental distribution across an HR dataset.
+
+
+●	Designed multiple visualizations to identify patterns in workforce composition, employee turnover, salary distribution, enabling clearer insights into where to focus retention efforts.
+
 
 
 
